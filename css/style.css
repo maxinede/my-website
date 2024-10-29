@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css2?family=Chonburi&family=Koh+Santepheap:wght@100;300;400;700;900&display=swap);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	FONT font-family: "Chonburi", serif;
+	font-size: 400;
+	font-weight: normal;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	 font-family: "Koh Santepheap", serif;
+     font-weight: 400;
+     font-style: normal;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
